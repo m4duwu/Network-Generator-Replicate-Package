@@ -1,6 +1,6 @@
 # Network-Generator-Replicate-Package-
 
-This is a data analysis framework to help analyze real world data-sets towards investigating a set of research questions with the use of Java, SQL.
+This is a data analysis framework to help analyze real world data-sets towards investigating a set of research questions with the use of Java, SQL and OOP techniques.
 
 IDE used Eclipse and MYSQLWorkbench.
 
